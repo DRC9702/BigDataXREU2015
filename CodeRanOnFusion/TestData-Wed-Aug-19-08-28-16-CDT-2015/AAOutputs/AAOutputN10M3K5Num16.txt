@@ -1,0 +1,3 @@
+Minimum Cost: 735
+Labels: 0->0	1->2	2->2	3->0	4->1	5->1	6->2	7->0	8->2	9->0
+RunningTime: 1

@@ -1,0 +1,4 @@
+Minimum Cost: 603
+Labels: 0->2   1->2   2->2   3->2   4->2   5->4   6->4   7->0   8->4   9->0   
+Runtime: 0
+Violate capacities: Yes

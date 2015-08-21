@@ -1,0 +1,4 @@
+Minimum Cost: 1989
+Labels: 0->2   1->2   2->2   3->2   4->3   5->1   6->2   7->3   8->-1   9->-1   10->3   11->1   12->0   13->3   
+Runtime: 0
+Violate capacities: No
